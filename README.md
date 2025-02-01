@@ -60,7 +60,7 @@ Execute os testes automatizados para garantir que tudo esteja funcionando corret
 bash
 Copiar
 npm test
-```
+
 Tecnologias Utilizadas
 Frontend: React, Bootstrap
 Backend: Node.js, Express
