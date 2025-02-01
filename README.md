@@ -77,7 +77,7 @@ Commit suas mudanças (git commit -m 'Adiciona nova funcionalidade').
 Envie para o seu fork (git push origin minha-feature).
 Abra uma pull request.
 
-
+````
 Contato
 Se tiver dúvidas, sugestões ou problemas, entre em contato:
 
